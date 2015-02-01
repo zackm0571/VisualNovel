@@ -1,0 +1,4 @@
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovelContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovelContent\obj\x86\Debug\VisualNovelContent.contentprojResolveAssemblyReference.cache
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovelContent\obj\x86\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Documents\Programming\Old Projects Repo\VisualNovel\VisualNovel\VisualNovelContent\obj\x86\Debug\ResolveAssemblyReference.cache

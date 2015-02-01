@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+<Header>
+  <Header>SCENE 7: A Negotiation</Header>
+  <Brightness>Light</Brightness>
+  </Header>
+  <Background>hallway</Background>
+  <StoryElement>
+    <StoryElement>ROBBY: Good. All quiet on the Western front. This place really 
+	is amazing. I hate to just sneak out but . . . wow what a great smell! 
+	They must use real pine.</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>MARIKO: Going somewhere? </StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikoconcerned</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>[Robby spins around and sees Mariko staring at him.]</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Oh . . . I was . . .</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryInteraction>
+  <StoryInteraction>I was thinking about giving those 
+  baths another try. </StoryInteraction>
+  <StoryInteraction>Talk about rude. I could have been sleep walking. You shouldn’t wake a sleep walker. </StoryInteraction>
+  </StoryInteraction>
+  <StoryElement>
+    <StoryElement>MARIKO: Where are you going with all your luggage?. </StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikoconcerned</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: I thought you had an outdoor sleeping option at this hotel.. </StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>MARIKO: My manager’s looking for you. He’s already yelled at 
+	me twice today. If he finds you sneaking around at night with 
+	your bags, what will he think? </StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikoconcerned</SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Good point. Can you show me the fastest way out of here?</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>MARIKO: I know you’re an honest guy. You wouldn’t be trying to sneak out of here would you? </StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikohappy</SideImage>
+    
+  </StoryElement>
+  <StoryInteraction>
+  <StoryInteraction>I’m just leaving early. Junko said she would pay for all this. </StoryInteraction>
+  <StoryInteraction>I left my credit card in America I wonder if I can call you when I get back and give you the number.</StoryInteraction>
+  </StoryInteraction>
+  <StoryElement>
+    <StoryElement>MARIKO: I know you don’t have a way to pay for all this. 
+	This is a five star Japanese hotel. That’s like a six star hotel in America.</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikoextremelyhappy</SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Alright, easy now. </StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>MARIKO: If you want to learn about Japanese culture, 
+	I can give you your first lesson. If you work here 
+	one more day, all debts will be paid.</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikoextremelyhappy</SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: In America we often ask a simple question in times like these: Are you crazy? </StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+    
+  </StoryElement>
+</Scene>

@@ -1,0 +1,218 @@
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\VisualNovel.exe
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\VisualNovel.pdb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\obj\Xbox 360\Debug\VisualNovel.exe
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\obj\Xbox 360\Debug\VisualNovel.pdb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\main_logo.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\main_side.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\main_start.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\SFX\bgmed.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\SFX\button-pushed.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\SFX\choice-screen.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\SFX\laugh.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\SFX\option-pushed.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\SFX\sigh.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\SFX\bgmed.wma
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\choose_screen.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aiconcerned.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aiconcerned_small.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aiembarrassed.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aiembarrassed_small.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aiextremelyhappy.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aiextremelyhappy_small.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aihappy.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aihappy_small.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkoconcerned.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkoconcerned_small.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkoembarrassed.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkoembarrassed_small.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkoextremelyhappy.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkoextremelyhappy_small.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkohappy.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkohappy_small.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikoconcerned.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikoconcerned_small.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikoembarrassed.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikoembarrassed_small.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikoextremelyhappy.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikoextremelyhappy_small.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikohappy.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikohappy_small.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\oldman.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\sidegirl.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SpeechBubbles\message_bubble.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SpeechBubbles\robbie_talk_bubble.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SpeechBubbles\talk_bubble.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\home5.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\JennaSueRegular.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\HelveticaNeue.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\button_1.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\button_2.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\baths.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\changing-room-door-2.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\changing-room-door.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\changing-room.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\hallway-2.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\hallway-interior-optional.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\hallway3.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\hotel-interior.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\hotel-outside.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\reception.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\reception2.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\room-bathroom.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\room-daytime2.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\room-front.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\room-interior-optional.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\room-night.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\room-night2.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\train.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\woods-outside-hotel.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\HelveticaNeue2.xnb
+C:\Users\Zack-074\Desktop\Visual Novel Contracting Project\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Swagger.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\obj\Xbox 360\Debug\VisualNovel.exe
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\obj\Xbox 360\Debug\VisualNovel.pdb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\main_logo.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\main_side.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\main_start.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\choose_screen.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aiconcerned.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aiconcerned_small.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aiembarrassed.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aiembarrassed_small.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aiextremelyhappy.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aiextremelyhappy_small.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aihappy.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aihappy_small.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkoconcerned.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkoconcerned_small.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkoembarrassed.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkoembarrassed_small.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkoextremelyhappy.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkoextremelyhappy_small.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkohappy.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkohappy_small.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikoconcerned.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikoconcerned_small.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikoembarrassed.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikoembarrassed_small.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikoextremelyhappy.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikoextremelyhappy_small.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikohappy.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikohappy_small.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\oldman.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\sidegirl.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SpeechBubbles\message_bubble.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SpeechBubbles\robbie_talk_bubble.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SpeechBubbles\talk_bubble.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\home5.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\button_1.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\button_2.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\baths.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\changing-room-door-2.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\changing-room-door.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\changing-room.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\hallway-2.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\hallway-interior-optional.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\hallway3.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\hotel-interior.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\hotel-outside.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\reception.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\reception2.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\room-bathroom.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\room-daytime2.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\room-front.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\room-interior-optional.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\room-night.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\room-night2.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\train.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\woods-outside-hotel.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\stars.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\SFX\bgmed.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\SFX\button-pushed.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\SFX\choice-screen.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\SFX\laugh.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\SFX\option-pushed.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\SFX\sigh.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\SFX\bgmed.wma
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\VisualNovel.exe
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\VisualNovel.pdb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\HeaderText.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\MessageText.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\InteractionText.xnb
+C:\Users\Zack\Documents\Work\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\ElementText.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\main_logo.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\main_side.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\main_start.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\choose_screen.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aiconcerned.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aiconcerned_small.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aiembarrassed.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aiembarrassed_small.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aiextremelyhappy.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aiextremelyhappy_small.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aihappy.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aihappy_small.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkoconcerned.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkoconcerned_small.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkoembarrassed.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkoembarrassed_small.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkoextremelyhappy.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkoextremelyhappy_small.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkohappy.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkohappy_small.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikoconcerned.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikoconcerned_small.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikoembarrassed.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikoembarrassed_small.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikoextremelyhappy.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikoextremelyhappy_small.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikohappy.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikohappy_small.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\oldman.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\sidegirl.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SpeechBubbles\message_bubble.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SpeechBubbles\robbie_talk_bubble.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SpeechBubbles\talk_bubble.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\home5.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\button_1.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\button_2.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\baths.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\changing-room-door-2.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\changing-room-door.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\changing-room.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\hallway-2.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\hallway-interior-optional.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\hallway3.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\hotel-interior.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\hotel-outside.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\reception.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\reception2.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\room-bathroom.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\room-daytime2.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\room-front.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\room-interior-optional.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\room-night.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\room-night2.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\train.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\woods-outside-hotel.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\stars.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\SFX\bgmed.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\SFX\button-pushed.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\SFX\choice-screen.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\SFX\laugh.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\SFX\option-pushed.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\SFX\sigh.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\HeaderText.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\MessageText.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\InteractionText.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\ElementText.xnb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\SFX\bgmed.wma
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\VisualNovel.exe
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\VisualNovel.pdb
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\obj\Xbox 360\Debug\VisualNovel.exe
+C:\Users\zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\obj\Xbox 360\Debug\VisualNovel.pdb
+C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\corner_button.xnb

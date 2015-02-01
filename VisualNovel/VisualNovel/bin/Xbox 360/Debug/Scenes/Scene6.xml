@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+  <Header>
+  <Header>SCENE 6: Junko's Goodbye</Header>
+  <Brightness>Dark</Brightness>
+  </Header>
+  <Background>roomNight</Background>
+  <StoryElement>
+    <StoryElement>[Robby regains consciousness and realizes he’s in 
+	a room lying on the floor. A fluffy white comforter covers his body. 
+	The room is dark except for the glow of moonlight coming in through 
+	the window. In the moonlight he sees someone on another futon lying 
+	next to him. It’s Junko.]</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Must be back in the room. Let me just check. Yup, still 
+	just a bathing suit. Is that Junko? Let me just get a closer look. </StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>[Junko wakes up.]</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO: Robby? Eeek . . . Are you OK? 
+	How is your head?</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoconcerned</SideImage>
+  </StoryElement>
+  <StoryInteraction>
+    <StoryInteraction>I’m not doing anything strange! </StoryInteraction>
+    <StoryInteraction>I was just getting a closer making sure 
+	I wasn’t in the wrong room. </StoryInteraction>
+  </StoryInteraction>
+  <StoryResponse>
+      <StoryResponse>JUNKO: Oh . . . OK. </StoryResponse>
+      <StoryResponse>JUNKO: This is the right room.  </StoryResponse>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoconcerned</SideImage>
+    <SideImage>junkoconcerned</SideImage>
+  </StoryResponse>
+  <StoryElement>
+    <StoryElement>ROBBY: Anyway, my head feels better thanks. What happened?</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO: Mariko found you and brought you here. </StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoconcerned</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: All by herself?</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO: Actually we all helped. But because of you, her boss got really mad at her. He thinks a half naked foreigner running around doesn’t look good to all the distinguished guests they have staying here.  </StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoconcerned</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: So it’s our last night? </StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO: Actually we’re not supposed to be here. Mariko told her boss she would take you to the hospital, but I convinced her to let us stay here. </StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoconcerned</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Why? If they don’t want us here we should go. I saw this documentary about POW camps in Japan . . . </StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO: I thought we could have one night alone in this room. What do you think?</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoembarrassed</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: That’s a good point. How did you convince Mariko to let us stay?</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO: I told her we would pay the full price for the room. You have a credit card right?</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoextremelyhappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Quick, let’s tie some bed sheets together. We’ll go out that window!</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO: We can’t go out that window! </StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoconcerned</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO: Don’t you want to stay here with me? </StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoembarrassed</SideImage>
+  </StoryElement>
+  <StoryInteraction>
+    <StoryInteraction>Yes, of course I do.</StoryInteraction>
+    <StoryInteraction>I just thinking we could pack our things and 
+	take a nice romantic walk in the garden.</StoryInteraction>
+  </StoryInteraction>
+  <StoryResponse>
+    <StoryResponse>JUNKO: Good, why don’t you come closer?</StoryResponse>
+    <StoryResponse>JUNKO: Oh that sounds nice. Why don’t we do that a little later?</StoryResponse>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoembarrassed</SideImage>
+    <SideImage>junkohappy</SideImage>
+  </StoryResponse>
+  <Background>roomNight2</Background>
+  <StoryElement>
+    <StoryElement>ROBBY: I have something I want to tell you.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO: Let’s talk about it over a nice cold bottle of soda.</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkohappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Don’t touch that refrigerator!</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO: What’s wrong?</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoconcerned</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: I don’t have enough money to pay for all of this.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO: But you’re an American. 
+	Where’s your big credit card?</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoextremelyhappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Hey, we don’t all have big credit cards. Some of us 
+	have small credit cards and some don’t have any at all. What am I saying? 
+	Let’s get out of here. Get your bag and let’s go. </StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO: Well I’m not ready to escape! This is
+	the first moment alone we’ve had and all you can 
+	think about is running away? </StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoembarrassed</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: I’m sorry Junko I have to go. I don’t want to get caught doing something stupid and lose my student visa. I haven’t even started school yet!</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO: Fine just go.</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoconcerned</SideImage>
+  </StoryElement>
+  <StoryInteraction>
+    <StoryInteraction>I'll call you sometime. </StoryInteraction>
+    <StoryInteraction>It's your last chance are you coming or not? </StoryInteraction>
+  </StoryInteraction>
+  <StoryResponse>
+    <StoryResponse>JUNKO: Just go!</StoryResponse>
+    <StoryResponse>[Junko pulls the sheet over her head.]</StoryResponse>
+    <Bubble>TalkBubble</Bubble>
+	<Bubble>MessageBubble</Bubble>
+    <SideImage>junkoconcerned</SideImage>
+	<SideImage></SideImage>
+  </StoryResponse>
+  <StoryElement>
+    <StoryElement>ROBBY: That was stupid. Why did I say that? I should have just 
+	lied and said everything was fine. Maybe I could have just left later 
+	while she was asleep and she’d never know. It would be like a dream for 
+	her. Yeah, some dream I am. Anyway, damage is done. I’ve got my bag. I’ve 
+	gotta get out of here.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <Background>hallway2</Background>
+  <StoryElement>
+    <StoryElement>[Robby slips out the door of the room into the hall.] </StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+</Scene>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+  <Header>
+  <Header>SCENE 4: Bath Time</Header>
+  <Brightness>Dark</Brightness>
+  </Header>
+  <Background>roomDaytime2</Background>
+  <StoryElement>
+    <StoryElement>[An hour has passed and still Robby and Ai are waiting for Junko. The fridge is now half empty.] </StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: This girl can drink soda! I’ve had a few but I’ve lost count of how many she’s had.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <Background>roomBathroom</Background>
+  <StoryElement>
+    <StoryElement>[Ai stands up and tries make her way to the toilet.] </StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: You’re a great dancer.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>AI: I’m not dancing I’m trying to find my way to the toilet.</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>aiembarrassed</SideImage>
+  </StoryElement>
+  <StoryInteraction>
+    <StoryInteraction>Here let me help you.</StoryInteraction>
+    <StoryInteraction>It’s next to the refrigerator. </StoryInteraction>
+  </StoryInteraction>
+  <StoryResponse>
+    <StoryResponse>AI: That’s OK, I got it. </StoryResponse>
+    <StoryResponse>AI: Oh, I see it. </StoryResponse>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>aiembarrassed</SideImage>
+    <SideImage>aiextremelyhappy</SideImage>
+  </StoryResponse>
+  <StoryElement>
+    <StoryElement>ROBBY: Whoa, watch out! I gotcha. </StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>AI: Thanks for catching me. </StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>aiconcerned</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: My pleasure.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <Background>roomDaytime2</Background>
+  <StoryElement>
+    <StoryElement>AI: You must be rich.</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>aihappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Why do you say that?</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>AI: You can pay for all this soda. </StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>aihappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Are you kidding? This is complementary, right?</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>AI: You thought this was free?</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>aiconcerned</SideImage>
+  </StoryElement>
+  <StoryInteraction>
+    <StoryInteraction>Of course not. I can pay for it. </StoryInteraction>
+    <StoryInteraction>What! Stop drinking now. Put these bottles back!</StoryInteraction>
+  </StoryInteraction>
+  <StoryResponse>
+    <StoryResponse>AI: Oh good, you must be able to read Japanese!</StoryResponse>
+    <StoryResponse>AI: You didn’t read this sign?</StoryResponse>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>aiconcerned</SideImage>
+    <SideImage>aiconcerned</SideImage>
+  </StoryResponse>
+  <StoryInteraction>
+    <StoryInteraction>Uh . . . yeah.</StoryInteraction>
+    <StoryInteraction>I can’t read Japanese!</StoryInteraction>
+  </StoryInteraction>
+  <StoryResponse>
+    <StoryResponse>AI: Oh, I see it’s written in English. </StoryResponse>
+    <StoryResponse>AI: But it’s written in English too. 'All items removed will be included in your bill at checkout.'</StoryResponse>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>aihappy</SideImage>
+    <SideImage>aiconcerned</SideImage>
+  </StoryResponse>
+  <StoryElement>
+    <StoryElement>ROBBY: I know I’ll tell Mariko. We’ve known each other for all of . . . three hours. No, Junko can talk to her. Where is she?</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>AI: I don’t know but it’s bath time. Are you coming?</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>aihappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Sure. </StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>AI: Take off your clothes. </StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>aihappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: OK.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>AI: Not here! Go in the bathroom and put on one of these. It’s a yukata. Here! I’ll see you later!</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>aiembarrassed</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: See you . . . </StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>[Robby surveys the damage of the room. Empty one liter soda bottles and snack bags lay open everywhere.]</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: . . . after I clean this place up.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <Background>changingRoomDoor</Background>
+  <StoryElement>
+    <StoryElement>[Robby stand in front of the bath sign and stops. 
+	He takes out the piece of paper that Mariko gave him. He stares 
+	at it for a bit.</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Which one was it? I should have written it down. 
+	I’m such an idiot. I’ll try this one, I think it means Men. OK, so far so good. 
+	This must be the locker room. Wait a minute what I do? I must take off 
+	my clothes here and go to the bath without a swimsuit. Wait a minute! That’s crazy, I can’t just walk in and say 'hey everyone!' . . . 
+	I’ll just keep my swimming trunks on. </StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <Background>baths</Background>
+  <StoryElement>
+    <StoryElement>[Robby enters the bath area slowly and cautiously.]</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: No one’s here. This place is unreal. It’s like that Mansion 
+	I saw on TV one day. Wait a minute I hear someone talking. It’s coming 
+	from behind that rock. I’ll just slip in on this side. Holy Christmas, 
+	this water is hot! Uh oh there are girls in here! Oh, I see this side of 
+	the rock must be the men’s side and that other side is the women’s. Wow, 
+	they’re really trusting here. How am I not supposed to spy on these lovely 
+	ladies? Oh, shoot! Is that Junko? And who’s that other girl?</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO: Yes, he’s really cute. </StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkohappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>OTHER GIRL: Are you sharing a room 
+	with him?</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>sidegirlhappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO: Yes, Mariko put us in the same room. It’s the 
+	only way we could afford to stay here. </StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoextremelyhappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>[The two girls laugh.]</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>[A thrashing in the water is heard. The other girls look to where Robby is hiding.] </StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Oh, snap! I better make a run for it.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>[The girls scream.]</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO: Look at that man he’s wearing a 
+	bathing suit!</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoembarrassed</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>OTHER GIRL: What??!!</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>sidegirlhappy</SideImage>
+  </StoryElement>
+  <Background>changingRoom</Background>
+  <StoryElement>
+    <StoryElement>ROBBY: I think they saw me! Uh oh more people in the locker room. </StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>[People in locker room scream.]</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Sorry! At least I know what that 
+	Japanese sign means now.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+</Scene>

@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+  <Header>
+  <Header>SCENE 3: Living The Dream Pt. 1</Header>
+  <Brightness>Dark</Brightness>
+  </Header>
+  <Background>roomFront</Background>
+  <StoryElement>
+    <StoryElement>[Robby enters his room at the Ryoukan.] </StoryElement>
+    <Bubble>MessageBubble</Bubble>
+  </StoryElement>
+  <Background>roomDaytime</Background>
+  <StoryElement>
+    <StoryElement>ROBBY: Whoa this is unbelievable! Sliding doors . . . Tatami floors . . . I better check those  closets to make sure there aren’t any ninjas. Oh, wow what’s that? Oh, it’s a telephone.  </StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>[Robby sees a small refrigerator.]</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: What kind of goodies do they have in here? [opens it up] A month’s supply of Japanese drinks! Nice! Maybe I’ll have a cold one before I jump into the hot spring. Wait a minute.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: This must be the mini bar. 
+	They probably charge you a fortune just like in 
+	the states. But on the other hand: This is the land 
+	of hospitality. You don’t even have to tip your waiter 
+	here. Besides, just one wouldn’t hurt.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>[Robby cracks open a drink. At the same time 
+	there’s a knock at the door.] </StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: I’m coming!</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <Background>roomFront</Background>
+  <StoryElement>
+    <StoryElement>[Robby opens the door. It’s Mariko.]</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>MARIKO: Hi, Robby! How do you like your room?</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikohappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: I love it!</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>MARIKO: I forgot to tell you something. 
+	They change the baths after 6:00pm.</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikohappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: They have one of those 'Danger: Wet Floor' 
+	signs in English and Spanish? I’ll be alright. I’ll just wait 
+	outside until they’re finished.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>MARIKO: No. I mean, the woman’s bath 
+	and the men’s bath will switch. The women will go in 
+	the men’s bath and the men will go in the women’s bath.</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikoconcerned</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: I’m not sure, but I think I want to live here for the rest of my life.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>MARIKO: No, they will still be separate.</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikoembarrassed</SideImage>
+  </StoryElement>
+  <StoryInteraction>
+    <StoryInteraction>Oh, I see.</StoryInteraction>
+    <StoryInteraction> But as a favor to me you’re letting me go into the 
+	women’s bath.</StoryInteraction>
+  </StoryInteraction>
+  <StoryResponse>
+    <StoryResponse>MARIKO: Good.</StoryResponse>
+    <StoryResponse>MARIKO: No, you don’t understand.</StoryResponse>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikohappy</SideImage>
+    <SideImage>marikoembarrassed</SideImage>
+  </StoryResponse>
+  <StoryElement>
+    <StoryElement>ROBBY: I’m just a man who wants to 
+	soak in scalding hot mineral water.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>MARIKO: Then take this!</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikohappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Aaah, a treasure map.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>MARIKO: No, this is the sign for men 
+	and this is the sign for women in Japanese Kanji. 
+	This is your sign. Can you make a note of it? 
+	When you use the baths after 6:00 enter the one with 
+	this sign on it. Got it?</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikohappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: OK! No problem.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>MARIKO: Are you sure you don’t want to make a note of it? Use my pen, write it down.</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikoconcerned</SideImage>
+  </StoryElement>
+  <StoryInteraction>
+    <StoryInteraction>OK.</StoryInteraction>
+    <StoryInteraction>Mariko, I’m fine. I have a good memory. 
+	This means ‘men’ right?</StoryInteraction>
+  </StoryInteraction>
+  <StoryResponse>
+      <StoryResponse>MARIKO: Here you are. 
+	  [Robby tries to write. The pen is out of ink.] 
+	  Oh shoot. Just don’t forget OK. I gotta go.</StoryResponse>
+      <StoryResponse>MARIKO: OK, just don’t forget. I have to run.</StoryResponse>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikoconcerned</SideImage>
+    <SideImage>marikoconcerned</SideImage>
+  </StoryResponse>
+  <StoryElement>
+    <StoryElement>ROBBY: Thanks.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>[Robby puts the note in his pocket.]</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: I wonder if they have one of those crazy Japanese games on TV?</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>[Another knock at the door.]</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Maybe Junko?</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>
+  [Robby opens the door. There’s a beautiful girl standing there.]</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryInteraction>
+    <StoryInteraction>Hi, who are you?</StoryInteraction>
+    <StoryInteraction>Junko, you changed your hair.</StoryInteraction>
+  </StoryInteraction>
+  <StoryResponse>
+    <StoryResponse>AI: My name is Ai</StoryResponse>
+    <StoryResponse>AI: Do we all look alike to you? My name is Ai.</StoryResponse>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>aiextremelyhappy</SideImage>
+    <SideImage>aiembarrassed</SideImage>
+  </StoryResponse>
+  <StoryElement>
+    <StoryElement>ROBBY: Hi, my name is . . .</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>AI: Robby . . . I know. Junko said I could 
+	wait here for her. Can I come in?</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>aiextremelyhappy</SideImage>
+  </StoryElement>
+  <StoryInteraction>
+    <StoryInteraction>Uh, yeah. Would you like a drink?</StoryInteraction>
+    <StoryInteraction>Uh, yeah. Would you like to watch TV?</StoryInteraction>
+  </StoryInteraction>
+  <StoryResponse>
+    <StoryResponse>AI: Oh, sure.</StoryResponse>
+    <StoryResponse>AI: Are you having a drink? I’ll have one too.</StoryResponse>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>aiextremelyhappy</SideImage>
+    <SideImage>aiextremelyhappy</SideImage>
+  </StoryResponse>
+  <StoryElement>
+    <StoryElement>ROBBY: OK. One more soda coming right up.  </StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>AI: I have to warn you. When I drink soda I get a little crazy.</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>aiembarrassed</SideImage>
+  </StoryElement>
+</Scene>

@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+  <Header>
+  <Header>SCENE 8: Living The Dream Pt. 2</Header>
+  <Brightness>Dark</Brightness>
+  </Header>
+  <Background>roomDaytime2</Background>
+  <StoryElement>
+    <StoryElement>[A phone rings. Robby opens his eyes and gropes in a dark 
+	room for the phone. He finds the receiver and puts it to his ear.]</StoryElement>
+    
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: I didn’t order a wake up call.</StoryElement>
+ 
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>MARIKO: I’m just making sure you’re not late for your first 
+	day of work.</StoryElement>
+ 
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Thanks. When’s breakfast?</StoryElement>
+ 
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>MARIKO: Grab a quick bite and then meet me in the lobby 
+	in a half an hour! We’re busy busy busy ...</StoryElement>
+ 
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Yes ma'am.</StoryElement>
+ 
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>[Robby hangs up the phone.] </StoryElement>
+ 
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: I should just leave right now. This is crazy! I’m going 
+	to take a quick shower, go down to the lobby, talk to Mariko and get 
+	this straitened out. Maybe my parents can wire me the money. I wonder what 
+	time it is in America? It’s probably . . . </StoryElement>
+    
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+    
+  </StoryElement>
+  <Background>roomBathroom</Background>
+  <StoryElement>
+    <StoryElement>[Robby opens the door to the bathroom and is surprised 
+	to see Junko putting on her makeup.] </StoryElement>
+    
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO: Aaah! </StoryElement>
+    
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoembarrassed</SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Sorry! What are you doing here? </StoryElement>
+    
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO: This is my room too! And thanks to your little deal with 
+	Mariko, I’m already late for work! </StoryElement>
+    
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoembarrassed</SideImage>
+    
+  </StoryElement>
+  <StoryInteraction>
+  <StoryInteraction>You work here?!!</StoryInteraction>
+  <StoryInteraction>It’s too late.</StoryInteraction>
+  </StoryInteraction>
+  <StoryResponse>
+    <StoryResponse>JUNKO: Get out of here! Let me change.</StoryResponse>
+    <StoryResponse>JUNKO: What?!! Get out of here! </StoryResponse>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoembarrassed</SideImage>
+    <SideImage>junkoconcerned</SideImage>
+  </StoryResponse>
+  <Background>reception</Background>
+  <StoryElement>
+    <StoryElement>[Robby sits in front of a stack of envelopes.]</StoryElement>
+    
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: This isn’t exactly what I had in mind.</StoryElement>
+    
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: All of these?</StoryElement>
+    
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>MARIKO: Would you rather be scrubbing the locker room floors? </StoryElement>
+    
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikoextremelyhappy</SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Frankly, yes. </StoryElement>
+    
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>MARIKO: Maybe we’ll find time for that later. For now, 
+	start inserting these papers into these envelopes.</StoryElement>
+    
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikohappy</SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Where’s Junko?</StoryElement>
+    
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>MARIKO: She’s doing house-cleaning duties.</StoryElement>
+    
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikohappy</SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: So you gave me the fun job?</StoryElement>
+    
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>MARIKO: I thought it would be weird if a foreigner 
+	in a staff uniform suddenly showed up at 
+	a guest’s room and started tidying up the place. </StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikoextremelyhappy</SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Doesn’t sound weird to me. </StoryElement>
+    
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>MARIKO: Better get to work. There are three more boxes 
+	of those papers we need to send out. Oh, and just one 
+	more thing. Don’t go into that room there, that’s the 
+	employee room. </StoryElement>
+   
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikohappy</SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: You don’t have to worry about me. I have enough 
+	in here to keep me interested.</StoryElement>
+    
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>MARIKO: I think you have an expression for this: 'It’s time to 
+	pay the man who plays the pipe.'</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikohappy</SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: You mean, 'the piper'. The man who plays the pipe is 
+	called the piper.</StoryElement>
+    
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>MARIKO: Well, it’s better than paying with your nose. </StoryElement>
+    
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikoextremelyhappy</SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: It’s through your . . . never mind. </StoryElement>
+    
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>[Mariko leaves.] </StoryElement>
+    
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+    
+  </StoryElement>
+  <Background>reception2</Background>
+  <StoryElement>
+    <StoryElement>ROBBY: This is great. Maybe Mariko is right. It’s time 
+	to pay the piper. Oh well, it’s only one day. Here’s one in the envelope. 
+	One down, five gajillion to go.</StoryElement>
+    
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: At least it’s not so bad. I get to work in a place full 
+	of beautiful women . . . and one angry boss. </StoryElement>
+    
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+    
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>[THE END]</StoryElement>
+    <StoryElement></StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+    
+  </StoryElement>
+</Scene>

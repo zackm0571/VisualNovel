@@ -1,0 +1,650 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>UIElements\main_logo.png</Source>
+      <Name>UIElements\main_logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\main_logo.xnb</Output>
+      <Time>2012-09-07T18:00:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\main_side.png</Source>
+      <Name>UIElements\main_side</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\main_side.xnb</Output>
+      <Time>2012-09-07T18:00:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\main_start.png</Source>
+      <Name>UIElements\main_start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\main_start.xnb</Output>
+      <Time>2012-09-07T18:00:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\choose_screen.png</Source>
+      <Name>UIElements\choose_screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\choose_screen.xnb</Output>
+      <Time>2012-09-16T18:39:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SideImages\aiconcerned.png</Source>
+      <Name>UIElements\SideImages\aiconcerned</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aiconcerned.xnb</Output>
+      <Time>2012-09-30T17:16:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SideImages\aiconcerned_small.png</Source>
+      <Name>UIElements\SideImages\aiconcerned_small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aiconcerned_small.xnb</Output>
+      <Time>2012-09-30T17:16:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SideImages\aiembarrassed.png</Source>
+      <Name>UIElements\SideImages\aiembarrassed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aiembarrassed.xnb</Output>
+      <Time>2012-09-30T17:16:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SideImages\aiembarrassed_small.png</Source>
+      <Name>UIElements\SideImages\aiembarrassed_small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aiembarrassed_small.xnb</Output>
+      <Time>2012-09-30T17:16:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SideImages\aiextremelyhappy.png</Source>
+      <Name>UIElements\SideImages\aiextremelyhappy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aiextremelyhappy.xnb</Output>
+      <Time>2012-09-30T17:16:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SideImages\aiextremelyhappy_small.png</Source>
+      <Name>UIElements\SideImages\aiextremelyhappy_small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aiextremelyhappy_small.xnb</Output>
+      <Time>2012-09-30T17:16:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SideImages\aihappy.png</Source>
+      <Name>UIElements\SideImages\aihappy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aihappy.xnb</Output>
+      <Time>2012-09-30T17:16:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SideImages\aihappy_small.png</Source>
+      <Name>UIElements\SideImages\aihappy_small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\aihappy_small.xnb</Output>
+      <Time>2012-09-30T17:16:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SideImages\junkoconcerned.png</Source>
+      <Name>UIElements\SideImages\junkoconcerned</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkoconcerned.xnb</Output>
+      <Time>2012-09-30T17:16:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SideImages\junkoconcerned_small.png</Source>
+      <Name>UIElements\SideImages\junkoconcerned_small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkoconcerned_small.xnb</Output>
+      <Time>2012-09-30T17:16:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SideImages\junkoembarrassed.png</Source>
+      <Name>UIElements\SideImages\junkoembarrassed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkoembarrassed.xnb</Output>
+      <Time>2012-09-30T17:16:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SideImages\junkoembarrassed_small.png</Source>
+      <Name>UIElements\SideImages\junkoembarrassed_small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkoembarrassed_small.xnb</Output>
+      <Time>2012-09-30T17:16:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SideImages\junkoextremelyhappy.png</Source>
+      <Name>UIElements\SideImages\junkoextremelyhappy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkoextremelyhappy.xnb</Output>
+      <Time>2012-09-30T17:16:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SideImages\junkoextremelyhappy_small.png</Source>
+      <Name>UIElements\SideImages\junkoextremelyhappy_small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkoextremelyhappy_small.xnb</Output>
+      <Time>2012-09-30T17:16:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SideImages\junkohappy.png</Source>
+      <Name>UIElements\SideImages\junkohappy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkohappy.xnb</Output>
+      <Time>2012-09-30T17:16:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SideImages\junkohappy_small.png</Source>
+      <Name>UIElements\SideImages\junkohappy_small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\junkohappy_small.xnb</Output>
+      <Time>2012-09-30T17:16:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SideImages\marikoconcerned.png</Source>
+      <Name>UIElements\SideImages\marikoconcerned</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikoconcerned.xnb</Output>
+      <Time>2012-09-30T17:16:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SideImages\marikoconcerned_small.png</Source>
+      <Name>UIElements\SideImages\marikoconcerned_small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikoconcerned_small.xnb</Output>
+      <Time>2012-09-30T17:16:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SideImages\marikoembarrassed.png</Source>
+      <Name>UIElements\SideImages\marikoembarrassed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikoembarrassed.xnb</Output>
+      <Time>2012-09-30T17:16:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SideImages\marikoembarrassed_small.png</Source>
+      <Name>UIElements\SideImages\marikoembarrassed_small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikoembarrassed_small.xnb</Output>
+      <Time>2012-09-30T17:16:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SideImages\marikoextremelyhappy.png</Source>
+      <Name>UIElements\SideImages\marikoextremelyhappy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikoextremelyhappy.xnb</Output>
+      <Time>2012-09-30T17:16:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SideImages\marikoextremelyhappy_small.png</Source>
+      <Name>UIElements\SideImages\marikoextremelyhappy_small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikoextremelyhappy_small.xnb</Output>
+      <Time>2012-09-30T17:16:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SideImages\marikohappy.png</Source>
+      <Name>UIElements\SideImages\marikohappy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikohappy.xnb</Output>
+      <Time>2012-09-30T17:16:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SideImages\marikohappy_small.png</Source>
+      <Name>UIElements\SideImages\marikohappy_small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\marikohappy_small.xnb</Output>
+      <Time>2012-09-30T17:16:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SideImages\oldman.png</Source>
+      <Name>UIElements\SideImages\oldman</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\oldman.xnb</Output>
+      <Time>2012-09-30T17:16:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SideImages\sidegirl.png</Source>
+      <Name>UIElements\SideImages\sidegirl</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SideImages\sidegirl.xnb</Output>
+      <Time>2012-09-30T17:16:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SpeechBubbles\message_bubble.png</Source>
+      <Name>UIElements\SpeechBubbles\message_bubble</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SpeechBubbles\message_bubble.xnb</Output>
+      <Time>2012-09-30T17:17:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SpeechBubbles\robbie_talk_bubble.png</Source>
+      <Name>UIElements\SpeechBubbles\robbie_talk_bubble</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SpeechBubbles\robbie_talk_bubble.xnb</Output>
+      <Time>2012-09-30T17:17:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\SpeechBubbles\talk_bubble.png</Source>
+      <Name>UIElements\SpeechBubbles\talk_bubble</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\SpeechBubbles\talk_bubble.xnb</Output>
+      <Time>2012-09-30T17:17:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\home5.png</Source>
+      <Name>Backgrounds\home5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\home5.xnb</Output>
+      <Time>2012-10-02T14:16:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\button_1.png</Source>
+      <Name>UIElements\button_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\button_1.xnb</Output>
+      <Time>2012-11-01T22:54:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\button_2.png</Source>
+      <Name>UIElements\button_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\button_2.xnb</Output>
+      <Time>2012-11-01T22:54:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\SceneBackgrounds\baths.png</Source>
+      <Name>Backgrounds\SceneBackgrounds\baths</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\baths.xnb</Output>
+      <Time>2012-11-10T15:33:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\SceneBackgrounds\changing-room-door-2.png</Source>
+      <Name>Backgrounds\SceneBackgrounds\changing-room-door-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\changing-room-door-2.xnb</Output>
+      <Time>2012-11-10T15:33:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\SceneBackgrounds\changing-room-door.png</Source>
+      <Name>Backgrounds\SceneBackgrounds\changing-room-door</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\changing-room-door.xnb</Output>
+      <Time>2012-11-10T15:33:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\SceneBackgrounds\changing-room.png</Source>
+      <Name>Backgrounds\SceneBackgrounds\changing-room</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\changing-room.xnb</Output>
+      <Time>2012-11-10T15:33:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\SceneBackgrounds\hallway-2.png</Source>
+      <Name>Backgrounds\SceneBackgrounds\hallway-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\hallway-2.xnb</Output>
+      <Time>2012-11-10T15:33:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\SceneBackgrounds\hallway-interior-optional.png</Source>
+      <Name>Backgrounds\SceneBackgrounds\hallway-interior-optional</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\hallway-interior-optional.xnb</Output>
+      <Time>2012-11-10T15:33:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\SceneBackgrounds\hallway3.png</Source>
+      <Name>Backgrounds\SceneBackgrounds\hallway3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\hallway3.xnb</Output>
+      <Time>2012-11-10T15:33:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\SceneBackgrounds\hotel-interior.png</Source>
+      <Name>Backgrounds\SceneBackgrounds\hotel-interior</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\hotel-interior.xnb</Output>
+      <Time>2012-11-10T15:33:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\SceneBackgrounds\hotel-outside.png</Source>
+      <Name>Backgrounds\SceneBackgrounds\hotel-outside</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\hotel-outside.xnb</Output>
+      <Time>2012-11-10T15:33:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\SceneBackgrounds\reception.png</Source>
+      <Name>Backgrounds\SceneBackgrounds\reception</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\reception.xnb</Output>
+      <Time>2012-11-10T15:33:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\SceneBackgrounds\reception2.png</Source>
+      <Name>Backgrounds\SceneBackgrounds\reception2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\reception2.xnb</Output>
+      <Time>2012-11-10T15:33:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\SceneBackgrounds\room-bathroom.png</Source>
+      <Name>Backgrounds\SceneBackgrounds\room-bathroom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\room-bathroom.xnb</Output>
+      <Time>2012-11-10T15:33:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\SceneBackgrounds\room-daytime2.png</Source>
+      <Name>Backgrounds\SceneBackgrounds\room-daytime2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\room-daytime2.xnb</Output>
+      <Time>2012-11-10T15:33:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\SceneBackgrounds\room-front.png</Source>
+      <Name>Backgrounds\SceneBackgrounds\room-front</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\room-front.xnb</Output>
+      <Time>2012-11-10T15:33:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\SceneBackgrounds\room-interior-optional.png</Source>
+      <Name>Backgrounds\SceneBackgrounds\room-interior-optional</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\room-interior-optional.xnb</Output>
+      <Time>2012-11-10T15:33:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\SceneBackgrounds\room-night.png</Source>
+      <Name>Backgrounds\SceneBackgrounds\room-night</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\room-night.xnb</Output>
+      <Time>2012-11-10T15:33:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\SceneBackgrounds\room-night2.png</Source>
+      <Name>Backgrounds\SceneBackgrounds\room-night2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\room-night2.xnb</Output>
+      <Time>2012-11-10T15:33:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\SceneBackgrounds\train.png</Source>
+      <Name>Backgrounds\SceneBackgrounds\train</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\train.xnb</Output>
+      <Time>2012-11-10T15:33:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\SceneBackgrounds\woods-outside-hotel.png</Source>
+      <Name>Backgrounds\SceneBackgrounds\woods-outside-hotel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\woods-outside-hotel.xnb</Output>
+      <Time>2012-11-10T15:33:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\SceneBackgrounds\stars.png</Source>
+      <Name>Backgrounds\SceneBackgrounds\stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\Backgrounds\SceneBackgrounds\stars.xnb</Output>
+      <Time>2012-11-17T19:10:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>UIElements\corner_button.png</Source>
+      <Name>UIElements\corner_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\UIElements\corner_button.xnb</Output>
+      <Time>2013-01-12T16:38:36.4893774-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\bgmed.mp3</Source>
+      <Name>SFX\bgmed</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\SFX\bgmed.xnb</Output>
+      <Extra>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\SFX\bgmed.wma</Extra>
+      <Time>2012-09-10T19:43:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\button-pushed.wav</Source>
+      <Name>SFX\button-pushed</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\SFX\button-pushed.xnb</Output>
+      <Time>2012-09-10T19:43:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\choice-screen.wav</Source>
+      <Name>SFX\choice-screen</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\SFX\choice-screen.xnb</Output>
+      <Time>2012-09-10T19:43:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\laugh.wav</Source>
+      <Name>SFX\laugh</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\SFX\laugh.xnb</Output>
+      <Time>2012-09-10T19:43:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\option-pushed.wav</Source>
+      <Name>SFX\option-pushed</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\SFX\option-pushed.xnb</Output>
+      <Time>2012-09-10T19:43:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\sigh.wav</Source>
+      <Name>SFX\sigh</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\SFX\sigh.xnb</Output>
+      <Time>2012-09-10T19:43:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>HeaderText.spritefont</Source>
+      <Name>HeaderText</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\HeaderText.xnb</Output>
+      <Time>2012-12-18T12:22:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MessageText.spritefont</Source>
+      <Name>MessageText</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\MessageText.xnb</Output>
+      <Time>2012-12-18T12:22:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>InteractionText.spritefont</Source>
+      <Name>InteractionText</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\InteractionText.xnb</Output>
+      <Time>2012-11-25T15:31:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ElementText.spritefont</Source>
+      <Name>ElementText</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\ElementText.xnb</Output>
+      <Time>2012-11-21T16:03:26-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovelContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovelContent\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Zack-074\Desktop\VisualNovel\VisualNovel\VisualNovel\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-01-10T22:29:13.0140031-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

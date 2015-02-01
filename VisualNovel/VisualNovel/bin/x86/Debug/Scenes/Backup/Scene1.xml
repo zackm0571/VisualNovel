@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+  <Header>SCENE 1. INT. TRAIN. DAY</Header>
+  <Background>train</Background>
+  <StoryElement>
+    <StoryElement>We hear the sound of a train rocking rhythmically on the tracks. From Robby's point of view the inside of the train comes into focus as he blinks his eyes after a short nap. He sits on the long bench seats that run down the length of the train. He looks through the window opposite him. Miles of rice fields race by with majestic mountains climbing high in the background.</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Must have fallen asleep. I hope I didn't miss my stop. </StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ANOUNCEMENT (In Japanese and English) The next stop will be Kagoshima station.</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Oh, thank God. Woke up just in time.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>Robby notices someone trying to hand him something. It's the girl sitting next to him. He looks right at her. She's really cute.</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO: Excuse me. I think this is yours.</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkohappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Oh, uh, yes it is. Thanks.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO: You dropped it. I saw a little of the inside when it lay on the floor. You’re a good artist.</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoembarrassed</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Thanks. Wait, how much did you see?</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO: Just the page that was open. Can I see the rest of your drawings?</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkohappy</SideImage>
+  </StoryElement>
+  <StoryInteraction>
+    <StoryInteraction>Sure, have a look.</StoryInteraction>
+    <StoryInteraction>Um, let me find a good one to show you.</StoryInteraction>
+  </StoryInteraction>
+  <StoryElement>
+    <StoryElement>Robby leafs through to show her a good picture.</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO: These are great! You must really like Japanese anime.</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoextremelyhappy</SideImage>
+  </StoryElement>
+  <StoryInteraction>
+    <StoryInteraction>ROBBY: It's OK, I guess.</StoryInteraction>
+    <StoryInteraction>I know. I'm total anime geek.</StoryInteraction>
+  </StoryInteraction>
+  <StoryElement>
+    <StoryElement>JUNKO: Are you visiting Kagoshima?</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkohappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY:I'm going to live here for a while. I'm meeting my host family at the station. How about you?</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO:I'm meeting a friend.</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkohappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Must be nice.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO:Oh, you don't have any friends in Japan?</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoconcerned</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Nope. Fresh off the boat.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO:Wow, you came to Japan by boat? That's so old fashioned.</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoextremelyhappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY:No, it's just a figure of speech.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO: Sorry, my English is bad.</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoembarrassed</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY:Your English is excellent.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO:You're pushing my leg.</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoconcerned</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY:No, actually we say 'you're pulling my leg'.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO:But it's the same meaning?</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoembarrassed</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY:Uh . . .</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO:Why don't you hang out with us sometime?</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkohappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY:Sure.  </StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO:My friend and I are going to a ryoukan. You know, a Japanese hotel.</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkohappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY:  Aren't all hotels here Japanese hotels?</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO: Uh, no some are business hotels . . .</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoconcerned</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY:No, I meant . . . we're in Japan so all hotels are Japanese . . . ah never mind. Bad joke.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO:You're pulling my leg!</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoextremelyhappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY:Not really.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO:A ryoukan is a traditional Japanese style hotel with tatami rooms and a hot spring.</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkohappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY:Oh, right! Aren’t they expensive?.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO:Yes, but my friend works there. She gives me a discount.</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoextremelyhappy</SideImage>
+  </StoryElement>
+  <StoryInteraction>
+    <StoryInteraction>I would love to go sometime.</StoryInteraction>
+    <StoryInteraction>Could she get me a discount?</StoryInteraction>
+  </StoryInteraction>
+  <StoryElement>
+    <StoryElement>JUNKO:Sure, I'll tell my friend. Can I have your mail address?</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkohappy</SideImage>
+  </StoryElement>
+  <StoryInteraction>
+    <StoryInteraction>I don't have a cell phone yet. Why don't you give me yours?</StoryInteraction>
+    <StoryInteraction>Why don't we just meet at the ryoukan?</StoryInteraction>
+  </StoryInteraction>
+  <StoryElement>
+    <StoryElement>Junko writes something on a piece of a notebook paper.</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ANNOUNCEMENT: Now arriving at Kagoshima station.</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO: Here! This is the name of the hotel.</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkohappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>  Junko hands him the paper.</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Thanks.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>JUNKO: Bring your notebook. Maybe you can draw me sometime.</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>junkoextremelyhappy</SideImage>
+  </StoryElement>
+  <StoryInteraction>
+    <StoryInteraction>ROBBY: You're pulling my leg.</StoryInteraction>
+    <StoryInteraction>I would love to.</StoryInteraction>
+  </StoryInteraction>
+</Scene>

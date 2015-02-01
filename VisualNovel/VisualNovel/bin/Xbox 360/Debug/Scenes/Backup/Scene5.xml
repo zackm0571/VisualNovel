@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+  <Header>Scene 5 </Header>
+  <StoryElement>
+    <StoryElement>Holy crap that was close. Oh, that must be the men’s bath! Here we go.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>[Robby enters the men’s locker area.]</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>Good, no one here either.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>AI: Excuse me! Oh, there you are. </StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>aiextremelyhappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>[Robby turns to see Ai enter the locker room wearing nothing but a towel.]</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Ai, what are you doing? This is the men’s bath.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>AI: Looks like we’re both still a little drunk. I just saw you run out of the women’s bath. </StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>aiembarrassed</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: That must have been another foreigner wearing a bathing suit. Look, you should get out of here before someone . . . </StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>AI: No one’s here yet. Let’s go in together real quick. </StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>aiextremelyhappy</SideImage>
+  </StoryElement>
+  <StoryInteraction>
+    <StoryInteraction>Are you crazy? You know what they’d do to me if they found out? </StoryInteraction>
+    <StoryInteraction>What the hell!</StoryInteraction>
+  </StoryInteraction>
+  <StoryResponse>
+    
+      <StoryResponse>AI: No, what? </StoryResponse>
+      <StoryResponse>AI: Great, hurry let’s go. </StoryResponse>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>aiextremelyhappy</SideImage>
+    <SideImage>aiextremelyhappy</SideImage>
+  </StoryResponse>
+  <StoryResponse>
+    <StoryResponse>ROBBY: I don’t know either, but I read how they tortured GIs during World War 2 and . . . </StoryResponse>
+    <StoryResponse>ROBBY: Wait, someone’s coming! </StoryResponse>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryResponse>
+  <StoryElement>
+    <StoryElement>[An old man enters with a young woman. The four stare at each other.]</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>OLD MAN: Hey, you’re not allowed to bring a girl in here! What do you think this is Thailand?</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>oldmanangry</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Excuse me!</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>[Robby bolts out of the locker room and runs down the hall.] </StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>Gotta get out of here! Oh there’s a green sign with a man escaping. I’ll follow him! [Robby pushes the exit door open into the balmy night air.]</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>[Robby pushes the exit door open into the balmy night air.]</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>I’m just gonna run until I reach the nearest harbor. Hop on a ship or . . . screw it! I’ll swim! I’ll swim to Thailand! No, stop thinking about Thailand. How do I get out of this picturesque Japanese garden? Oh wow, bonsai! Ow! </StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>[Robby wacks his head on a low hanging branch. Robby point of view changes so that he’s looking up straight up at the stars. His focus goes in and out.]</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>Oh my head! </StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>[A figure stands over him. It’s a woman but she’s not in focus yet.]</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>MARIKO: Robby?</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikoconcerned</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Mariko? I was looking for . . . the pool.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>[Robby’s consciousness fades and he blacks out.]</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+</Scene>

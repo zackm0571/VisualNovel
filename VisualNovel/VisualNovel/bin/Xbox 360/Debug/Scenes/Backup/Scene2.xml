@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+  <Header>SCENE 2: Robby arrives at the Ryoukan</Header>
+  <StoryElement>
+    <StoryElement>Here I am. This place is awesome! I can’t believe I’m staying here for next to nothing. I should personally thank Junko the next time I see her. If this is the lobby, I can’t wait to see the rooms! Is that a pond over there? Let’s just take a gander . . . Holy mackerel look at those koi fish! They could eat me. Speaking of which, maybe they’re hungry (Robby pulls out some crackers from his bag).</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>HOTEL CLERK:: Excuse me! What are you doing?</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikoconcerned</SideImage>
+  </StoryElement>
+  <StoryInteraction>
+    <StoryInteraction>ROBBY: Uh nothing, I was just counting my crackers.</StoryInteraction>
+    <StoryInteraction>Oh, sorry, I didn’t know.</StoryInteraction>
+  </StoryInteraction>
+  <StoryElement>
+    <StoryElement>Wow even the staff is beautiful.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+    <StoryResponse>
+      <StoryResponse>HOTEL CLERK: It looked like you were going to feed the fish. I’m sorry but we don’t allow that.</StoryResponse>
+      <StoryResponse>HOTEL CLERK: That’s OK. We feed the fish a special food. Anything else might make them sick.</StoryResponse>
+	<Bubble>TalkBubble</Bubble>
+	<SideImage>marikoconcerned</SideImage>
+	<SideImage>marikohappy</SideImage>
+    </StoryResponse>
+  <StoryElement>
+    <StoryElement>ROBBY: Oh, I gotcha.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>HOTEL CLERK: Will you be staying with us, sir?</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikohappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Yes, in fact a friend recommended this place to me. You wouldn’t happen to know Junko would you?</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>HOTEL CLERK: Jun chan?</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikohappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: No, JunKO. KO as in “KOala”</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement> Jesus, is my pronunciation that bad?</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>HOTEL CLERK: You must be Robby! Junko told me all about you.</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikoextremelyhappy</SideImage>
+  </StoryElement>
+  <StoryInteraction>
+    <StoryInteraction>Did she tell you I was handsome?</StoryInteraction>
+    <StoryInteraction>Did she tell you I was a crazy fish feeder?</StoryInteraction>
+  </StoryInteraction>
+    <StoryResponse>
+      <StoryResponse>HOTEL CLERK: Yes she did.</StoryResponse>
+      <StoryResponse>HOTEL CLERK: No she didn't.</StoryResponse>
+	   <Bubble>TalkBubble</Bubble>
+    <SideImage>marikohappy</SideImage>
+    </StoryResponse>
+   
+  <StoryElement>
+    <StoryElement>ROBBY: Sorry to disappoint you.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>HOTEL CLERK (laughs) That’s OK. My name is Mariko.</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikohappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>MariKO . . . JunKO, I must work on my pronunciation. </StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: It’s nice to meet you, Mariko. Let’s run away together. Somewhere nice where the Koi eat crackers. Mariko, will you marry me!</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>MARIKO (laughs) Junko said you were kind of strange. But in a good way.</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikoextremelyhappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>  I could listen to that laugh all day.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Seriously thanks for getting me in here. So far my first trip to Japan has been absolutely perfect.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY:  Don’t worry, I think I can blend in.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>MARIKO: That’s OK. Just relax and enjoy your stay.</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikohappy</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: I plan to do a lot of relaxing. Where is my room? Can you show me?</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>MARIKO: I would love to but I’m very busy. I have to go!</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikoconcerned</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Oh come on, you can take a little time to show me my room, can’t you?</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>MARIKO: I’m sorry. My manager is watching us. I have to help with room service. I’ll see you later.</StoryElement>
+    <Bubble>TalkBubble</Bubble>
+    <SideImage>marikoconcerned</SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>ROBBY: Sounds great. Good luck.</StoryElement>
+    <Bubble>PersonalBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+  <StoryElement>
+    <StoryElement>There she goes. Busy, busy, busy . . . Now, to check out my room.</StoryElement>
+    <Bubble>MessageBubble</Bubble>
+    <SideImage></SideImage>
+  </StoryElement>
+</Scene>
